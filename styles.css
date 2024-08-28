@@ -1,5 +1,5 @@
 body {
-    color: red;
+    color: rgb(253, 2, 2);
     background: rgb(0, 0, 0);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -12,12 +12,12 @@ h1 {
 
 
 p {
-    color: red;
+    color: rgb(255, 0, 0);
 }
 
 
 header {
-    border-bottom: solid 2px red;
+    border-bottom: solid 2px rgb(252, 0, 0);
     padding: 10px;
     font-size: 32px;
     color: rgb(255, 0, 0);
@@ -71,9 +71,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: solid 2px red;
+    border: solid 2px rgb(246, 0, 0);
 }
 
 .categoria h2 {
-    color: red;
+    color: rgb(251, 0, 0);
 }
